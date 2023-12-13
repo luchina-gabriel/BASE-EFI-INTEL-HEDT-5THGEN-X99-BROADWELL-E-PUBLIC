@@ -6,6 +6,10 @@
 <br><br>
 🇧🇷 - Para download das EFIs BASEs, é necessário você ser membro de qualquer categoria no canal do YouTube e conectar seu Discord à sua conta YouTube para acesso à sala `#efi-base`;
 
+![youtube_connection](https://github.com/luchina-gabriel/BASE-EFI-INTEL-HEDT-5THGEN-X99-BROADWELL-E-PUBLIC/assets/23700365/e0d9c4b2-9534-4ad4-b830-4b05d0ac43ae)
+<br>
+![efi-base-channel](https://github.com/luchina-gabriel/BASE-EFI-INTEL-HEDT-5THGEN-X99-BROADWELL-E-PUBLIC/assets/23700365/3e8872e7-08d6-4d29-a3a3-cf1ba29c298d)
+
 # Basic Info
 
 Note|Description
